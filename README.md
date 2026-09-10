@@ -19,7 +19,7 @@ Agricultural performance varies across seasons due to changes in environmental c
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* google colab
 
 ## Dataset
 
